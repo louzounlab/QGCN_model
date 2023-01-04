@@ -1,7 +1,6 @@
 # QGCN
-> QGCN method for graph classification: https://arxiv.org/abs/2104.06750.
-> Use the QGCN layer instead of pooling the GCN output for a fix size.  
-
+> QGCN method for graph classification - you can read the full article [here](https://arxiv.org/abs/2104.06750).__
+> TL;DR: Use the QGCN layer instead of pooling the GCN output for a fix size.  
 
 ## Execution examples:
 
@@ -29,10 +28,10 @@ for data in loader:
 ```
 
 ## Installation
-> required packages:
-> - torch~=1.13.0
+required packages:
+* torch~=1.13.0
 
 
 ## Links
-There is a full version of this model, which executes the learning end to end - you can see it [here](https://github.com/louzounlab/QGCN).
+There is a full version of this model, which executes the learning end to end - you can see it [here](https://github.com/louzounlab/QGCN).__
 For more details, visit the [lab website](https://yolo.math.biu.ac.il/)
