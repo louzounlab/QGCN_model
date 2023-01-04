@@ -1,5 +1,5 @@
 # QGCN
-> QGCN method for graph classification - you can read the full article [here](https://arxiv.org/abs/2104.06750).__
+> QGCN method for graph classification - you can read the full article [here](https://arxiv.org/abs/2104.06750).  
 > TL;DR: Use the QGCN layer instead of pooling the GCN output for a fix size.  
 
 ## Execution examples:
@@ -33,5 +33,5 @@ required packages:
 
 
 ## Links
-There is a full version of this model, which executes the learning end to end - you can see it [here](https://github.com/louzounlab/QGCN).__
+There is a full version of this model, which executes the learning end to end - you can see it [here](https://github.com/louzounlab/QGCN).  
 For more details, visit the [lab website](https://yolo.math.biu.ac.il/)
