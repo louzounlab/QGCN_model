@@ -29,9 +29,9 @@ for data in loader:
 
 ## Installation
 required packages:
-* torch~=1.13.0
+* torch
 
 
 ## Links
 There is a full version of this model, which executes the learning end to end - you can see it [here](https://github.com/louzounlab/QGCN).  
-For more details, visit the [lab website](https://yolo.math.biu.ac.il/)
+For more details, visit the [lab website](https://yolo.math.biu.ac.il/).
